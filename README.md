@@ -1,7 +1,7 @@
 <div align="center">
     <hr>
     <p align="center">
-    <img src="https://github.com/Compil-AR/Compil-AR/blob/main/lg.gif" width="1000" height="350">
+    <img src="https://github.com/Compil-AR/Compil-AR/blob/main/lg.gif" height="350">
     <img src="https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square" alt="Python Badge">
     <img src="https://img.shields.io/badge/C-%23e9c241?logo=nim&logoColor=white&style=flat-square" alt="C Badge">
     <img src="https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square" alt="HTML Badge">
