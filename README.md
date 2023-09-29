@@ -6,18 +6,22 @@
 
 ![Python Badge](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
 ![C Badge](https://img.shields.io/badge/C-%2300599C?logo=c&logoColor=white&style=flat-square)
-![HTML Badge](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=flat-square)
 ![C++ Badge](https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 
 ---
 
 ### Hola 👋
 
-Soy [Compil-AR](https://github.com/Compil-AR), un apasionado desarrollador con experiencia en Python, C, HTML y C++. Siempre busco aprender y explorar nuevas tecnologías. ¡Mira mis repositorios y dime lo que piensas!
+Soy [Compil-AR](https://github.com/Compil-AR), un apasionado desarrollador y entusiasta de la seguridad. Me especializo en Python, C, C++ y sistemas Linux. Siempre busco aprender y explorar nuevas tecnologías. ¡Mira mis repositorios y dime lo que piensas!
 
-📫 ¿Quieres contactarme? Envíame un [correo](mailto:tu-email@email.com) o sígueme en [LinkedIn](#).
+📫 **Contacto**:
+- Envíame un [correo](mailto:tu-email@email.com).
+- Únete a mi canal de [Telegram sobre Hacking Ético](https://t.me/tu_canal_telegram) (recuerda actualizar el enlace).
+- Mira mis videos en [YouTube](https://www.youtube.com/channel/UCKYeFAHAQO2nwQRkSZfcT_A).
+- Revísame en [HackTheBox](https://app.hackthebox.com/profile/overview): CompilAR #1581222.
 
-🌱 Actualmente estoy aprendiendo más sobre desarrollo web y inteligencia artificial.
+🌱 Actualmente estoy ampliando mis habilidades en desarrollo web y ciberseguridad.
 
 ✨ Algunos de mis proyectos favoritos:
 - [Proyecto A](https://github.com/Compil-AR/proyecto-a)
@@ -37,6 +41,7 @@ Soy [Compil-AR](https://github.com/Compil-AR), un apasionado desarrollador con e
 💬 "El código es como el humor. Cuando tienes que explicarlo, no es bueno." - Cory House
 
 </div>
+
 
 
 
