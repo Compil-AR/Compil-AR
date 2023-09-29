@@ -1,5 +1,8 @@
 <div align="left">
 
+<img src="https://github.com/Compil-AR/Compil-AR/blob/main/lg.gif" width="1000" height="350">
+---
+
 ## 👤 **Compil-AR**  
 
 🛠 **Tratando De Ser Programador**: Todos los días intentando alcanzar el objetivo.
