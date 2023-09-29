@@ -1,14 +1,18 @@
 <div align="left">
+
 ---
+
 <img src="https://github.com/Compil-AR/Compil-AR/blob/main/lg.gif" width="1000" height="350">
+
 ---
----
+
 <a href="https://github.com/Compil-AR">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Compil-AR&show_icons=true&include_all_commits=true&theme=radical" alt="Estadísticas de Compil-AR" />
 </a>
 <a href="https://github.com/Compil-AR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Compil-AR&theme=radical&layout=compact" alt="Lenguajes más usados" />
 </a>
+
 ---
 
 ## 👤 **Compil-AR**  
@@ -23,6 +27,8 @@
 
 Te invito a revisar mis repositorios 📁. Si quieres colaborar en la creacion de un codigo o repositorio, ¡contactame!
 
+---
+
 ### 🌱 **Actualmente aprendiendo y desarrollando**:
 - **Lenguajes de programacipn**: 
   - 🐍 Python 
@@ -35,6 +41,8 @@ Te invito a revisar mis repositorios 📁. Si quieres colaborar en la creacion d
   
 - **Formación** 🎓:
   - 💼 Estudiante de Informática
+
+---
 
 ### ✨ **Proyectos destacados**:
 - 📌 [IP-Tracker](https://github.com/Compil-AR/IP-Tracker)
