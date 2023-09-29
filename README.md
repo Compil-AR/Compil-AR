@@ -5,9 +5,10 @@
 ---
 
 ![Python Badge](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
+![C++ Badge](https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![C Badge](https://img.shields.io/badge/C-%2300599C?logo=c&logoColor=white&style=flat-square)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=flat-square)
-![C++ Badge](https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+
 
 ---
 
