@@ -1,14 +1,15 @@
 <div align="left">
-
+---
 <img src="https://github.com/Compil-AR/Compil-AR/blob/main/lg.gif" width="1000" height="350">
-##
+---
+---
 <a href="https://github.com/Compil-AR">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Compil-AR&show_icons=true&include_all_commits=true&theme=radical" alt="Estadísticas de Compil-AR" />
 </a>
 <a href="https://github.com/Compil-AR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Compil-AR&theme=radical&layout=compact" alt="Lenguajes más usados" />
 </a>
-##
+---
 
 ## 👤 **Compil-AR**  
 
@@ -18,12 +19,12 @@
 
 🔒 **Apasionado de la seguridad informática**: La seguridad y el internet son inseparables. En el vasto y misterioso mundo de la web, nunca podemos estar seguros de quién se esconde detrás o qué puede suceder si no navegamos con precaución 🌐.
 
-📚 **Estudiante de Informática**: Todos los días luchando, aprendiendo y mejorando.
+📚 **Estudiante de Informatica**: Todos los días luchando, aprendiendo y mejorando.
 
-Te invito a revisar mis repositorios 📁. Si quieres colaborar en la creación de un código o repositorio, ¡contáctame!
+Te invito a revisar mis repositorios 📁. Si quieres colaborar en la creacion de un codigo o repositorio, ¡contactame!
 
 ### 🌱 **Actualmente aprendiendo y desarrollando**:
-- **Lenguajes de programación**: 
+- **Lenguajes de programacipn**: 
   - 🐍 Python 
   - 🔧 C 
   - 🛠 C++
