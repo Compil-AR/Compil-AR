@@ -8,7 +8,6 @@
 ![C Badge](https://img.shields.io/badge/C-%2300599C?logo=c&logoColor=white&style=flat-square)
 ![HTML Badge](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
 ![C++ Badge](https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![Dev Badge](https://img.shields.io/badge/Dev+-16B5E8?style=flat-square)
 
 ---
 
