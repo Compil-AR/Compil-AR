@@ -11,9 +11,32 @@
 
 ---
 
-![Compil-AR Github Stats](https://github-readme-stats.vercel.app/api?username=Compil-AR&show_icons=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Compil-AR&theme=radical)
+### Hola 👋
+
+Soy [Compil-AR](https://github.com/Compil-AR), un apasionado desarrollador con experiencia en Python, C, HTML y C++. Siempre busco aprender y explorar nuevas tecnologías. ¡Mira mis repositorios y dime lo que piensas!
+
+📫 ¿Quieres contactarme? Envíame un [correo](mailto:tu-email@email.com) o sígueme en [LinkedIn](#).
+
+🌱 Actualmente estoy aprendiendo más sobre desarrollo web y inteligencia artificial.
+
+✨ Algunos de mis proyectos favoritos:
+- [Proyecto A](https://github.com/Compil-AR/proyecto-a)
+- [Proyecto B](https://github.com/Compil-AR/proyecto-b)
+
+---
+
+<a href="https://github.com/Compil-AR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Compil-AR&show_icons=true&include_all_commits=true&theme=radical" alt="Estadísticas de Compil-AR" />
+</a>
+<a href="https://github.com/Compil-AR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Compil-AR&theme=radical&layout=compact" alt="Lenguajes más usados" />
+</a>
+
+---
+
+💬 "El código es como el humor. Cuando tienes que explicarlo, no es bueno." - Cory House
 
 </div>
+
 
 
