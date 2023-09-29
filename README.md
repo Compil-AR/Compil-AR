@@ -5,28 +5,54 @@
 ---
 
 ![Python Badge](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
-![C++ Badge](https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![C Badge](https://img.shields.io/badge/C-%2300599C?logo=c&logoColor=white&style=flat-square)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=flat-square)
+![C++ Badge](https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+
+---
+
+## 👤 **Compil-AR**  
+
+- 🛠 **Tratando De Ser Programador**: Tratando todos los dias de llegar al objetivo.
+
+- 🐧 **Especialista en sistemas**: Tengo una base solida en Kali-Linux, y un profundo conocimiento de sus herramientas 🔍. Además, diseño y desarrollo herramientas 
+  personalizadas en Python tanto para Linux 🖥️ como para Windows 🪟.
+
+- 🔒 **Apasionado de la seguridad informatica**: La seguridad y el internet son inseparables. En el vasto y misterioso mundo de la web, nunca podemos estar seguros de quien se esconde detrás o qué puede suceder si no navegamos con precaución 🌐
+
+- 📚 **Estudiante de Informatica**: Todos los dias luchando y tratando de aprender y mejorar.
+
+Te invito a ver en mis repositorios 📁, y si queres colaborar con crear un codigo o un repositorio Contactame.
 
 
 ---
 
-### Hola 👋
+### 📫 **Contacto**:
 
-Soy [Compil-AR](https://github.com/Compil-AR), un apasionado desarrollador y entusiasta de la seguridad. Me especializo en Python, C, C++ y sistemas Linux. Siempre busco aprender y explorar nuevas tecnologías. ¡Mira mis repositorios y dime lo que piensas!
+📧 [Envíame un correo](mailto:G4m3overk1ll@gmail.com)  
+🔗 [Telegram sobre Hacking Ético](https://t.me/HackingeticoARG)  
+📺 [YouTube](https://www.youtube.com/channel/UCKYeFAHAQO2nwQRkSZfcT_A)  
+🛡 [HackTheBox](https://app.hackthebox.com/profile/overview)  
 
-📫 **Contacto**:
-- Envíame un [correo](mailto:tu-email@email.com).
-- Únete a mi canal de [Telegram sobre Hacking Ético](https://t.me/tu_canal_telegram) (recuerda actualizar el enlace).
-- Mira mis videos en [YouTube](https://www.youtube.com/channel/UCKYeFAHAQO2nwQRkSZfcT_A).
-- Revísame en [HackTheBox](https://app.hackthebox.com/profile/overview): CompilAR #1581222.
+---
 
-🌱 Actualmente estoy ampliando mis habilidades en desarrollo web y ciberseguridad.
+### 🌱 **Actualmente aprendiendo y desarrollando**:
 
-✨ Algunos de mis proyectos favoritos:
-- [Proyecto A](https://github.com/Compil-AR/proyecto-a)
-- [Proyecto B](https://github.com/Compil-AR/proyecto-b)
+- **Lenguajes de programación**: 
+  - Python
+  - C
+  - C++
+  
+- **Herramientas y Sistemas Operativos**:
+  - Profundo conocimiento en Kali-Linux y sus herramientas
+  - Desarrollo de herramientas personalizadas en Python para Linux y Windows
+  
+- 🎓 **Formación**:
+  - Estudiante de Informática
+
+
+### ✨ **Proyectos destacados**:
+- [IP-Tracker]([https://github.com/Compil-AR/proyecto-a](https://github.com/Compil-AR/IP-Tracker))
 
 ---
 
@@ -42,6 +68,7 @@ Soy [Compil-AR](https://github.com/Compil-AR), un apasionado desarrollador y ent
 💬 "El código es como el humor. Cuando tienes que explicarlo, no es bueno." - Cory House
 
 </div>
+
 
 
 
