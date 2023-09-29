@@ -13,46 +13,32 @@
 
 ## 👤 **Compil-AR**  
 
-- 🛠 **Tratando De Ser Programador**: Tratando todos los dias de llegar al objetivo.
+🛠 **Tratando De Ser Programador**: Todos los días intentando alcanzar el objetivo.
 
-- 🐧 **Especialista en sistemas**: Tengo una base solida en Kali-Linux, y un profundo conocimiento de sus herramientas 🔍. Además, diseño y desarrollo herramientas 
-  personalizadas en Python tanto para Linux 🖥️ como para Windows 🪟.
+🐧 **Especialista en sistemas**: Tengo una base sólida en Kali-Linux y un profundo conocimiento de sus herramientas 🔍. Diseño y desarrollo herramientas personalizadas en Python tanto para Linux 🖥️ como para Windows 🪟.
 
-- 🔒 **Apasionado de la seguridad informatica**: La seguridad y el internet son inseparables. En el vasto y misterioso mundo de la web, nunca podemos estar seguros de quien se esconde detrás o qué puede suceder si no navegamos con precaución 🌐
+🔒 **Apasionado de la seguridad informática**: La seguridad y el internet son inseparables. En el vasto y misterioso mundo de la web, nunca podemos estar seguros de quién se esconde detrás o qué puede suceder si no navegamos con precaución 🌐.
 
-- 📚 **Estudiante de Informatica**: Todos los dias luchando y tratando de aprender y mejorar.
+📚 **Estudiante de Informática**: Todos los días luchando, aprendiendo y mejorando.
 
-Te invito a ver en mis repositorios 📁, y si queres colaborar con crear un codigo o un repositorio Contactame.
-
-
----
-
-### 📫 **Contacto**:
-
-📧 [Envíame un correo](mailto:G4m3overk1ll@gmail.com)  
-🔗 [Telegram sobre Hacking Ético](https://t.me/HackingeticoARG)  
-📺 [YouTube](https://www.youtube.com/channel/UCKYeFAHAQO2nwQRkSZfcT_A)  
-🛡 [HackTheBox](https://app.hackthebox.com/profile/overview)  
-
----
+Te invito a revisar mis repositorios 📁. Si quieres colaborar en la creación de un código o repositorio, ¡contáctame!
 
 ### 🌱 **Actualmente aprendiendo y desarrollando**:
 
 - **Lenguajes de programación**: 
-  - Python
-  - C
-  - C++
+  - 🐍 Python 
+  - 🔧 C 
+  - 🛠 C++
   
 - **Herramientas y Sistemas Operativos**:
-  - Profundo conocimiento en Kali-Linux y sus herramientas
-  - Desarrollo de herramientas personalizadas en Python para Linux y Windows
+  - 🐧 Profundo conocimiento en Kali-Linux y sus herramientas
+  - 📜 Desarrollo de herramientas personalizadas en Python para Linux y Windows
   
 - 🎓 **Formación**:
-  - Estudiante de Informática
-
+  - 💼 Estudiante de Informática
 
 ### ✨ **Proyectos destacados**:
-- [IP-Tracker]([https://github.com/Compil-AR/proyecto-a](https://github.com/Compil-AR/IP-Tracker))
+- 📌 [IP-Tracker](https://github.com/Compil-AR/IP-Tracker)
 
 ---
 
@@ -66,6 +52,15 @@ Te invito a ver en mis repositorios 📁, y si queres colaborar con crear un cod
 ---
 
 💬 "El código es como el humor. Cuando tienes que explicarlo, no es bueno." - Cory House
+
+---
+
+### 📫 **Contacto**:
+
+📧 [Envíame un correo](mailto:G4m3overk1ll@gmail.com)  
+🔗 [Telegram sobre Hacking Ético](https://t.me/HackingeticoARG)  
+📺 [YouTube](https://www.youtube.com/channel/UCKYeFAHAQO2nwQRkSZfcT_A)  
+🛡 [HackTheBox](https://app.hackthebox.com/profile/overview)  
 
 </div>
 
