@@ -54,7 +54,6 @@ Te invito a revisar mis repositorios 📁. Si quieres colaborar en la creacion d
 📧 [Envíame un correo](mailto:G4m3overk1ll@gmail.com)  
 🔗 [Telegram sobre Hacking Ético](https://t.me/HackingeticoARG)  
 📺 [YouTube](https://www.youtube.com/channel/UCKYeFAHAQO2nwQRkSZfcT_A)  
-🛡 [HackTheBox](https://app.hackthebox.com/profile/overview)
 
 </div>
 
