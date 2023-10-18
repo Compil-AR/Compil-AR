@@ -7,7 +7,7 @@
 ---
 
 <a href="https://github.com/Compil-AR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Compil-AR&show_icons=true&include_all_commits=true&theme=radical" alt="Estadísticas de Compil-AR" />
+  [![Estadísticas de Compil-AR](https://github-readme-stats.vercel.app/api?username=Compil-AR&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/Compil-AR)
 </a>
 <a href="https://github.com/Compil-AR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Compil-AR&theme=radical&layout=compact" alt="Lenguajes mas usados" />
