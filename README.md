@@ -1,11 +1,6 @@
 <div align="left">
 
 ---
-<a href="https://github.com/Compil-AR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Compil-AR&theme=radical&layout=compact" alt="Lenguajes mas usados" />
-</a>
-
----
 
 ## 👤 **Compil-AR**  
 
@@ -39,6 +34,12 @@ Te invito a revisar mis repositorios 📁. Si quieres colaborar en la creacion d
 ### ✨ **Proyectos destacados**:
 - 📌 [IP-Tracker](https://github.com/Compil-AR/IP-Tracker)
 - 📌 [DDos-Ataque](https://github.com/Compil-AR/DDos-ataque.py)
+
+---
+
+<a href="https://github.com/Compil-AR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Compil-AR&theme=radical&layout=compact" alt="Lenguajes mas usados" />
+</a>
 
 ---
 
