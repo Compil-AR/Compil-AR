@@ -1,7 +1,5 @@
 <div align="left">
 
----
-
 ## 👤 **Compil-AR**  
 
 🛠 **Tratando De Ser Programador**: Todos los días intentando alcanzar el objetivo.
