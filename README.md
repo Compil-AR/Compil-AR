@@ -1,10 +1,6 @@
 <div align="left">
 
 ---
-
-<img src="https://github.com/Compil-AR/Compil-AR/blob/main/lg.gif" width="1000" height="350">
-
----
 <a href="https://github.com/Compil-AR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Compil-AR&theme=radical&layout=compact" alt="Lenguajes mas usados" />
 </a>
